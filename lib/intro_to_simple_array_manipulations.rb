@@ -21,3 +21,13 @@ end
 def shift_with_args(array)
   
 end
+
+def using_concat
+  
+end
+
+def using_insert
+  
+end
+
+using_
